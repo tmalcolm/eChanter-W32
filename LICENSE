@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 tmalcolm
+Copyright (c) 2023 Tim Malcolm
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+I2S Audio portions of this software are licensed as follows:
+Boring copyright/usage information:
+	(c) XTronical, www.xtronical.com
+	Use as you wish for personal or monatary gain, or to rule the world (if that sort of thing spins your bottle)
+	However you use it, no warrenty is provided etc. etc. It is not listed as fit for any purpose you perceive
+	It may damage your house, steal your lover, drink your beers and more.
+
+	For more information and wiring for the specific chips mentioned please visit:
+	http://www.xtronical.com/I2SAudio
+		
+
